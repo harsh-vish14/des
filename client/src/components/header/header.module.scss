@@ -1,0 +1,18 @@
+.title {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  padding: 20px;
+}
+.tabs {
+  padding: 20px;
+}
+.tabPane {
+  background-color: red;
+  min-height: 80vh;
+  padding: 30px;
+
+  border-radius: 5px;
+  background: #f1f1f2;
+  box-shadow: inset 5px 5px 10px #d9d9da, inset -5px -5px 10px #ffffff;
+}
